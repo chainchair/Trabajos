@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e34872-9000-45b0-91f0-c24a907f7faa" name="Changes" comment="prop">
-      <change afterPath="$PROJECT_DIR$/Runnable.java" afterDir="false" />
+    <list default="true" id="62e34872-9000-45b0-91f0-c24a907f7faa" name="Changes" comment="robots creados con un numero">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiPrimerRobot.class" beforeDir="false" afterPath="$PROJECT_DIR$/MiPrimerRobot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiPrimerRobot.java" beforeDir="false" afterPath="$PROJECT_DIR$/MiPrimerRobot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Racer.class" beforeDir="false" afterPath="$PROJECT_DIR$/Racer.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Racer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Racer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Trabajos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Trabajos/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Trabajos/MiPrimerRobot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Trabajos/MiPrimerRobot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mundo.kwld" beforeDir="false" afterPath="$PROJECT_DIR$/mundo.kwld" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Trabajos/Racer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Trabajos/Racer.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,27 +56,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Application.MiPrimerRobot.executor&quot;: &quot;Run&quot;,
-    &quot;Batch.Compilar.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/programas/Karel/Karel/Trabajos&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.MiPrimerRobot.executor": "Run",
+    "Batch.Compilar.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/programas/Karel/Karel/Trabajos",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -104,7 +99,7 @@
       <workItem from="1730914675225" duration="5567000" />
       <workItem from="1731203521731" duration="9755000" />
       <workItem from="1731215345649" duration="5029000" />
-      <workItem from="1731255917384" duration="5709000" />
+      <workItem from="1731255917384" duration="13790000" />
     </task>
     <task id="LOCAL-00001" summary="prop">
       <option name="closed" value="true" />
@@ -130,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731215940650</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="robots creados con un numero">
+      <option name="closed" value="true" />
+      <created>1731270003813</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731270003813</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +142,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new" />
     <MESSAGE value="prop" />
-    <option name="LAST_COMMIT_MESSAGE" value="prop" />
+    <MESSAGE value="robots creados con un numero" />
+    <option name="LAST_COMMIT_MESSAGE" value="robots creados con un numero" />
   </component>
 </project>

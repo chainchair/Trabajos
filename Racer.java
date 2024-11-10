@@ -13,35 +13,33 @@ class Racer extends Robot implements RobotTask,Runnable{
 
     @Override
     public void task() {
-        //move fist four avenues
-        move();move();move();move();
-        //if there is no wall continue
-        if(frontIsClear()){
-            move();move();move();move();move();move();move();move();move();move();
-        }//if there is a wall turn left and advance four streets, and return to init direction(east)
-        else{
-            turnLeft();
-            move();move();move();move();
-            turnLeft();turnLeft();turnLeft();
-            //if there is no wall continue
-            if(frontIsClear()){
-                move();move();move();move();move();move();move();move();move();move();
-            }//if there is a wall turn left and advance four streets, and return to init direction(east)
+        //move to the front of the door
+        int turnCounter=0;
+        boolean a=true;
+        while(a){
+            if(turnCounter==4){
+
+                move();
+                move();
+                a=false;
+                break;
+            }
+            else if (frontIsClear()){
+                move();
+            }
+            else if(turnCounter>=1 && turnCounter<4){
+                turnLeft();
+                turnLeft();
+                turnLeft();
+                turnCounter++;
+
+            }
             else{
                 turnLeft();
-                move();move();move();move();
-                turnLeft();turnLeft();turnLeft();
-                move();move();move();move();move();move();move();move();move();move();
+                turnCounter++;
             }
 
         }
-        turnLeft();turnLeft();turnLeft();
-        move();move();move();move();move();move();move();move();
-        while(frontIsClear()){
-            move();
-        }
-        turnLeft();turnLeft();turnLeft();
-        move();
 
 
     }
