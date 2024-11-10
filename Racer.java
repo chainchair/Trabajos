@@ -2,7 +2,7 @@ import kareltherobot.*;
 import kareltherobot.Robot;
 import java.awt.*;
 
-class Racer extends Robot implements RobotTask {
+class Racer extends Robot implements RobotTask,Runnable{
     //attributes
     //int age=0;
     //constructor
@@ -13,16 +13,21 @@ class Racer extends Robot implements RobotTask {
 
     @Override
     public void task() {
-        move();move();move();
+        //move fist four avenues
+        move();move();move();move();
+        //if there is no wall continue
         if(frontIsClear()){
             move();move();move();move();move();move();move();move();move();move();
-        }else{
+        }//if there is a wall turn left and advance four streets, and return to init direction(east)
+        else{
             turnLeft();
             move();move();move();move();
             turnLeft();turnLeft();turnLeft();
+            //if there is no wall continue
             if(frontIsClear()){
                 move();move();move();move();move();move();move();move();move();move();
-            }else{
+            }//if there is a wall turn left and advance four streets, and return to init direction(east)
+            else{
                 turnLeft();
                 move();move();move();move();
                 turnLeft();turnLeft();turnLeft();
@@ -30,9 +35,20 @@ class Racer extends Robot implements RobotTask {
             }
 
         }
+        turnLeft();turnLeft();turnLeft();
+        move();move();move();move();move();move();move();move();
+        while(frontIsClear()){
+            move();
+        }
+        turnLeft();turnLeft();turnLeft();
+        move();
+
 
     }
-
+    public void run(){
+        task();
+    }
+/*
     public void race()
     { while(! nextToABeeper()) move();
         pickBeeper();
@@ -41,6 +57,6 @@ class Racer extends Robot implements RobotTask {
     public void run()
     {
         race();
-    }
+    }*/
 }
 
