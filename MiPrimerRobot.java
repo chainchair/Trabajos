@@ -4,7 +4,6 @@ public class MiPrimerRobot implements Directions
 {
     public static void main(String [] args)
     {
-
         World.readWorld("Mundo.kwld");
         World.setVisible(true);
         Racer first = new Racer(1, 1, East, 0,Color.red);
