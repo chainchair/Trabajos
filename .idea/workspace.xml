@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="62e34872-9000-45b0-91f0-c24a907f7faa" name="Changes" comment="new">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Trabajos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KarelJRobot.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Compilar.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditarMundos.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KarelJRobot.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiPrimerRobot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiPrimerRobot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Racer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Racer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Run.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/allclasses-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/allclasses-noframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/constant-values.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/deprecated-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-16.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-17.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-18.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/kareltherobot/AugmentedRobot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/kareltherobot/AutoRemote.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/kareltherobot/AutoRemoteMain.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/kareltherobot/BeeperConfiguration.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/kareltherobot/Die.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/kareltherobot/Directions.Direction.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/kareltherobot/Directions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/kareltherobot/FigureMaker.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/kareltherobot/KJRTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/kareltherobot/KarelRunner.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/kareltherobot/MiniBuilder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/kareltherobot/RemoteControl.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/kareltherobot/Robot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/kareltherobot/RobotTask.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/kareltherobot/RobotWorldWindow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/kareltherobot/UrRobot.ConnectStrategy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/kareltherobot/UrRobot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/kareltherobot/World.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/kareltherobot/WorldBuilder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/kareltherobot/WorldBuilderInterface.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/kareltherobot/class-use/AugmentedRobot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/kareltherobot/class-use/AutoRemote.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/kareltherobot/class-use/AutoRemoteMain.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/kareltherobot/class-use/BeeperConfiguration.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/kareltherobot/class-use/Die.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/kareltherobot/class-use/Directions.Direction.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/kareltherobot/class-use/Directions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/kareltherobot/class-use/FigureMaker.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/kareltherobot/class-use/KJRTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/kareltherobot/class-use/KarelRunner.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/kareltherobot/class-use/MiniBuilder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/kareltherobot/class-use/RemoteControl.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/kareltherobot/class-use/Robot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/kareltherobot/class-use/RobotTask.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/kareltherobot/class-use/RobotWorldWindow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/kareltherobot/class-use/UrRobot.ConnectStrategy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/kareltherobot/class-use/UrRobot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/kareltherobot/class-use/World.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/kareltherobot/class-use/WorldBuilder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/kareltherobot/class-use/WorldBuilderInterface.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/kareltherobot/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/kareltherobot/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/kareltherobot/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/kareltherobot/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/package-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/serialized-form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo.kwld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/.idea/Trabajos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/.idea/libraries/KarelJRobot.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/Compilar.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/EditarMundos.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/KarelJRobot.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/MiPrimerRobot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/Racer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/Run.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/allclasses-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/allclasses-noframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/constant-values.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/deprecated-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/index-files/index-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/index-files/index-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/index-files/index-11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/index-files/index-12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/index-files/index-13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/index-files/index-14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/index-files/index-15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/index-files/index-16.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/index-files/index-17.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/index-files/index-18.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/index-files/index-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/index-files/index-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/index-files/index-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/index-files/index-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/index-files/index-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/index-files/index-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/index-files/index-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/index-files/index-9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/kareltherobot/AugmentedRobot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/kareltherobot/AutoRemote.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/kareltherobot/AutoRemoteMain.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/kareltherobot/BeeperConfiguration.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/kareltherobot/Die.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/kareltherobot/Directions.Direction.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/kareltherobot/Directions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/kareltherobot/FigureMaker.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/kareltherobot/KJRTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/kareltherobot/KarelRunner.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/kareltherobot/MiniBuilder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/kareltherobot/RemoteControl.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/kareltherobot/Robot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/kareltherobot/RobotTask.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/kareltherobot/RobotWorldWindow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/kareltherobot/UrRobot.ConnectStrategy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/kareltherobot/UrRobot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/kareltherobot/World.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/kareltherobot/WorldBuilder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/kareltherobot/WorldBuilderInterface.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/kareltherobot/class-use/AugmentedRobot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/kareltherobot/class-use/AutoRemote.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/kareltherobot/class-use/AutoRemoteMain.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/kareltherobot/class-use/BeeperConfiguration.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/kareltherobot/class-use/Die.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/kareltherobot/class-use/Directions.Direction.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/kareltherobot/class-use/Directions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/kareltherobot/class-use/FigureMaker.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/kareltherobot/class-use/KJRTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/kareltherobot/class-use/KarelRunner.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/kareltherobot/class-use/MiniBuilder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/kareltherobot/class-use/RemoteControl.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/kareltherobot/class-use/Robot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/kareltherobot/class-use/RobotTask.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/kareltherobot/class-use/RobotWorldWindow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/kareltherobot/class-use/UrRobot.ConnectStrategy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/kareltherobot/class-use/UrRobot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/kareltherobot/class-use/World.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/kareltherobot/class-use/WorldBuilder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/kareltherobot/class-use/WorldBuilderInterface.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/kareltherobot/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/kareltherobot/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/kareltherobot/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/kareltherobot/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/package-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/serialized-form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/doc/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Trabajos/mundo.kwld" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "chainchair"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/chainchair/Trabajos.git",
+    "accountId": "0e9caa58-6d35-4399-bb9d-945b6b83c6c0"
+  }
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2o4KXRY8wH4pzSAPwoAKH3SqUXw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.MiPrimerRobot.executor": "Run",
+    "Batch.Compilar.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/programas/Karel/Karel/Trabajos",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62e34872-9000-45b0-91f0-c24a907f7faa" name="Changes" comment="" />
+      <created>1730123449003</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730123449003</updated>
+      <workItem from="1730123453503" duration="176000" />
+      <workItem from="1730123683190" duration="8910000" />
+      <workItem from="1730912804082" duration="982000" />
+      <workItem from="1730914675225" duration="5567000" />
+      <workItem from="1731203521731" duration="9755000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new" />
+    <option name="LAST_COMMIT_MESSAGE" value="new" />
+  </component>
+</project>
