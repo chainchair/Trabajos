@@ -4,16 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e34872-9000-45b0-91f0-c24a907f7faa" name="Changes" comment="prop">
-      <change afterPath="$PROJECT_DIR$/Runnable.java" afterDir="false" />
+    <list default="true" id="62e34872-9000-45b0-91f0-c24a907f7faa" name="Changes" comment="task edited to make easier to read">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiPrimerRobot.class" beforeDir="false" afterPath="$PROJECT_DIR$/MiPrimerRobot.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MiPrimerRobot.java" beforeDir="false" afterPath="$PROJECT_DIR$/MiPrimerRobot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Racer.class" beforeDir="false" afterPath="$PROJECT_DIR$/Racer.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Racer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Racer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Trabajos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Trabajos/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Trabajos/MiPrimerRobot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Trabajos/MiPrimerRobot.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Trabajos/Racer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Trabajos/Racer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Trabajos/mundo.kwld" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Trabajos/mundo.kwld" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -64,7 +62,8 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Application.MiPrimerRobot.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MiPrimerRobot.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.prueba.executor&quot;: &quot;Run&quot;,
     &quot;Batch.Compilar.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
@@ -104,7 +103,13 @@
       <workItem from="1730914675225" duration="5567000" />
       <workItem from="1731203521731" duration="9755000" />
       <workItem from="1731215345649" duration="5029000" />
-      <workItem from="1731255917384" duration="598000" />
+      <workItem from="1731255917384" duration="15284000" />
+      <workItem from="1731341356013" duration="7079000" />
+      <workItem from="1731364054997" duration="19537000" />
+      <workItem from="1731429718073" duration="2731000" />
+      <workItem from="1731495449706" duration="4413000" />
+      <workItem from="1731614708242" duration="9389000" />
+      <workItem from="1731715348597" duration="770000" />
     </task>
     <task id="LOCAL-00001" summary="prop">
       <option name="closed" value="true" />
@@ -130,7 +135,23 @@
       <option name="project" value="LOCAL" />
       <updated>1731215940650</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="robots creados con un numero">
+      <option name="closed" value="true" />
+      <created>1731270003813</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731270003813</updated>
+    </task>
+    <task id="LOCAL-00005" summary="task edited to make easier to read">
+      <option name="closed" value="true" />
+      <created>1731280276307</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731280276307</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +160,23 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new" />
     <MESSAGE value="prop" />
-    <option name="LAST_COMMIT_MESSAGE" value="prop" />
+    <MESSAGE value="robots creados con un numero" />
+    <MESSAGE value="task edited to make easier to read" />
+    <option name="LAST_COMMIT_MESSAGE" value="task edited to make easier to read" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Racer.java</url>
+          <line>89</line>
+          <properties class="Racer" method="task">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

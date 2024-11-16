@@ -18,10 +18,12 @@ public class MiPrimerRobot implements Directions
         }while (RobotNumber<1 || RobotNumber>15);
 
         Thread[] array =new Thread[RobotNumber];
+        //create threads
         for(int i=0; i<RobotNumber;i++){
             array[i] = new Thread(new Racer(i+1, 1, East, 0,colorArray[i]));
             array[i].start();
         }
+
 
     }
 }
