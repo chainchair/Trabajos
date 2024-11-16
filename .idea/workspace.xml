@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e34872-9000-45b0-91f0-c24a907f7faa" name="Changes" comment="task edited to make easier to read">
+    <list default="true" id="62e34872-9000-45b0-91f0-c24a907f7faa" name="Changes" comment="added path finding and regression">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MiPrimerRobot.java" beforeDir="false" afterPath="$PROJECT_DIR$/MiPrimerRobot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Racer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Racer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Trabajos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Trabajos/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Trabajos/MiPrimerRobot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Trabajos/MiPrimerRobot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Trabajos/Racer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Trabajos/Racer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Trabajos/mundo.kwld" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Trabajos/mundo.kwld" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +105,7 @@
       <workItem from="1731429718073" duration="2731000" />
       <workItem from="1731495449706" duration="4413000" />
       <workItem from="1731614708242" duration="9389000" />
-      <workItem from="1731715348597" duration="10914000" />
+      <workItem from="1731715348597" duration="12879000" />
     </task>
     <task id="LOCAL-00001" summary="prop">
       <option name="closed" value="true" />
@@ -151,18 +147,38 @@
       <option name="project" value="LOCAL" />
       <updated>1731280276307</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added path finding and regression">
+      <option name="closed" value="true" />
+      <created>1731730349637</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1731730349637</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new" />
     <MESSAGE value="prop" />
     <MESSAGE value="robots creados con un numero" />
     <MESSAGE value="task edited to make easier to read" />
-    <option name="LAST_COMMIT_MESSAGE" value="task edited to make easier to read" />
+    <MESSAGE value="added path finding and regression" />
+    <option name="LAST_COMMIT_MESSAGE" value="added path finding and regression" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

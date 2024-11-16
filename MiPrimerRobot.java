@@ -10,6 +10,8 @@ public class MiPrimerRobot implements Directions
 
         World.readWorld("Mundo.kwld");
         World.setVisible(true);
+        World.setDelay(18);
+        World.showSpeedControl(true);
 
         Scanner scan = new Scanner(System.in);
         do {
